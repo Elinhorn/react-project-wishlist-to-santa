@@ -1,0 +1,50 @@
+
+
+.sendWish {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: rgba($color: #FFFFFF, $alpha: 0.5);
+    height: 320px;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    
+}
+
+
+
+button {
+    border-radius: 10px;
+    border: none;
+    background-color: red;
+    font-size: medium;
+    font-weight: 600;
+    color: #FFF;
+    padding: 15px;
+    
+    
+}
+
+form {
+    text-align: center;
+    padding: 30px;
+    color: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    font-weight: 700;
+
+    input {
+        margin-bottom: 15px;
+        border-radius: 5px;
+        border-style: none;
+        height: 30px;
+        margin-top: 5px;
+        margin-left: 15px;
+        width: 270px;
+    }
+}

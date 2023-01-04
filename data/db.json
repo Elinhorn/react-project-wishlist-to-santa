@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Santa",
+      "wish": "vacation",
+      "id": 1
+    },
+    {
+      "name": "Rudolph",
+      "wish": "Carrots",
+      "id": 2
+    },
+    {
+      "name": "Ms Clause",
+      "wish": "My husband to retire",
+      "id": 3
+    },
+    {
+      "name": "Elin ",
+      "wish": "häst",
+      "id": 4
+    }
+  ]
+}
