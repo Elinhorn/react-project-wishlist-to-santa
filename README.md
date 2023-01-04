@@ -1,3 +1,6 @@
+# Send your wish to Santa! 🎅
+
+### This is a school project where the assignment was to build a simple app using React⚛️ and fetch API from local server.
 
 #### Start project:
 ```
