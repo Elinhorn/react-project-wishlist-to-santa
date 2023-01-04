@@ -6,4 +6,4 @@
 ```
 npm install
 npm run dev 
- - This will start both project(port300) and localserver(port3001)
+ - This will start both project(port3000) and localserver(port3001)
